@@ -1,0 +1,8 @@
+.App {
+  text-align: center; /* Center text horizontally */
+  height: 100vh; /* Set height of container to 100% of viewport height */
+  display: flex; /* Use flexbox for centering vertically */
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+  flex-direction: column; /* Stack items vertically */
+}
